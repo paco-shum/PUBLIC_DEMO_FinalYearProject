@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-#WARNING: THIS PROJECT HAS BEEN SANITISED, FUNCTION MAY NOT WORK PROPERLY
+# WARNING: THIS PROJECT HAS BEEN SANITISED, FUNCTION MAY NOT WORK PROPERLY
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
